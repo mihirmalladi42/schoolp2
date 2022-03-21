@@ -1,0 +1,15 @@
+#video{
+    width:50%;
+  height: 340px;
+}
+body{
+  text-align:center;
+}
+.hover:hover{
+  color:#a1a1a1;
+}
+img {
+  width:50%;
+}
+
+ 
